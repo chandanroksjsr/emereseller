@@ -251,7 +251,7 @@
       <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -361,7 +361,7 @@
       <workItem from="1522527270420" duration="3011000" />
       <workItem from="1522534315061" duration="5196000" />
       <workItem from="1522540822318" duration="4568000" />
-      <workItem from="1522549723393" duration="2915000" />
+      <workItem from="1522549723393" duration="3089000" />
     </task>
     <task id="LOCAL-00001" summary="Sign up bug fixed">
       <created>1518148543594</created>
@@ -563,10 +563,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65494000" />
+    <option name="totallyTimeSpent" value="65668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23146747" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
